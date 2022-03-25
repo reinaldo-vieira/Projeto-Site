@@ -12,3 +12,7 @@ main{
     margin: auto;
     box-shadow: 3px 3px 5px rgba(51, 45, 45, 0.418);
 }
+
+img.lado {
+    float: right;
+}
